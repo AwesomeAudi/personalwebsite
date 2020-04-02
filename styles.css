@@ -40,7 +40,7 @@ hr {
   text-decoration: none;
 }
 
-a:hover {
+.footer-link:hover {
   color: #ffffff;
 }
 
